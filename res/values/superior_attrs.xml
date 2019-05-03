@@ -14,9 +14,7 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 -->
-
 <resources>
-
     <!-- Interval seekbar -->
     <declare-styleable name="IntervalSeekBar">
         <attr name="minI" format="float" />
