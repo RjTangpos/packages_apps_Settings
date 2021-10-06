@@ -188,10 +188,13 @@
     <string name="app_volume">App volume</string>
     <string name="app_volume_title">Per-app volume control</string>
     <string name="app_volume_summary">Allow to set different volume levels for each app</string>
-    
+
     <!-- Battery stats -->
     <string name="battery_stat_temp">Temperature</string>
     <string name="battery_stat_capacity">Capacity</string>
     <string name="battery_stat_cycle">Cycle</string>
+
+    <!-- SuperiorOS-Extended Maintainer -->
+    <string name="SpOS_maintainer">Device Maintainer</string>
 
 </resources>
