@@ -155,4 +155,9 @@
      <string name="proximity_wake_title">Prevent accidental wake-up</string>
      <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen</string>
 
+     <!-- Navbar options -->
+     <string name="navbar_invert_layout_title">Invert navigation bar layout</string>
+     <string name="navbar_invert_info">Swap the \"Back\" and \"Recents\" buttons on the navigation
+          bar</string>
+
 </resources>
