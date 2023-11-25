@@ -66,6 +66,7 @@ android_library {
         "res-export", // for external usage
         "res-product",
         "SuperiorLab/res",
+        "SettingsGoogle/res",
     ],
     static_libs: [
         "androidx-constraintlayout_constraintlayout",
