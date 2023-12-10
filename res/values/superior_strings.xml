@@ -196,6 +196,7 @@
 
     <!-- SuperiorOS-Extended Maintainer -->
     <string name="SpOS_maintainer">Device Maintainer</string>
+    <string name="SpOS_maintainer_summary">https://t.me/superiorextendedsg</string>
 
     <!-- LiveDisplay -->
     <string name="live_display_summary">Optimize your screen based on time of day and ambient conditions to improve readability and reduce eyestrain</string>
